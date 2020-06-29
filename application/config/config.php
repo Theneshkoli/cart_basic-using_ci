@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-$config['base_url'] = 'http://localhost/cart_basic_using_ci/';
+$config['base_url'] = 'http://localhost/cart_basic-using_ci/';
 // $config['base_url'] = 'http://localhost/codeigniter_spyrox/';
 
 /*
